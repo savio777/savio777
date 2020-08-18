@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-<!--
-**savio777/savio777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sávio :grin:, currently i'm working as FullStack Developer.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savio777&show_icons=true&theme=radical)
+##### My social networks:
+- [Instagram](https://www.instagram.com/savioo_fontes/)
+- [LinkedIn](https://br.linkedin.com/in/s%C3%A1vio-pal%C3%A1cio-fontes-3924aa16b)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savio777&count_private=true&show_icons=true&theme=tokyonight)
+
+#### Main projects:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=savio777&repo=tcc)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=savio777&repo=bootcamp-gostack11)](https://github.com/anuraghazra/github-readme-stats)
