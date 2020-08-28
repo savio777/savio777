@@ -13,8 +13,8 @@ My name is Sávio :grin:, currently i'm working as FullStack Developer.
 
 #### Main projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=savio777&repo=tcc)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=savio777&repo=bootcamp-gostack11)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=savio777&repo=tcc&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=savio777&repo=bootcamp-gostack11&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
