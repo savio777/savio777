@@ -3,8 +3,8 @@
 My name is Sávio :grin:, currently i'm working as FullStack Developer.
 
 ##### My social networks:
-[![instagram](./assets/instagram.png)](https://www.instagram.com/savioo_fontes/)
-[![linkedin](./assets/linkedin.png)](https://br.linkedin.com/in/s%C3%A1vio-pal%C3%A1cio-fontes-3924aa16b)
+[![instagram](https://github.com/savio777/savio777/blob/master/assets/instagram.png)](https://www.instagram.com/savioo_fontes/)
+[![linkedin](https://github.com/savio777/savio777/blob/master/assets/linkedin.png)](https://br.linkedin.com/in/s%C3%A1vio-pal%C3%A1cio-fontes-3924aa16b)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savio777&count_private=true&show_icons=true&theme=tokyonight)
