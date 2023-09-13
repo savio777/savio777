@@ -8,7 +8,7 @@ My name is Sávio :grin:, currently i'm working as FullStack Developer.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savio777&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savio777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Main projects:
 
