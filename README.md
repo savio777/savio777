@@ -6,8 +6,6 @@ My name is Sávio :grin:, currently i'm working as FullStack Developer.
 [![instagram](https://img.shields.io/badge/instagram%20-%23323330.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/savioo_fontes/)
 [![linkedin](https://img.shields.io/badge/linkedin%20-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://br.linkedin.com/in/s%C3%A1vio-pal%C3%A1cio-fontes-3924aa16b)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savio777&count_private=true&show_icons=true&theme=tokyonight)
-
 ### Main projects:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=savio777&repo=tcc&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
