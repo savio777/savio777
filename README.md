@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-My name is Sávio :grin:, currently i'm working as FullStack Developer.
+My name is Sávio :grin:, currently i'm working as FullStack Developer and I build automation solutions.
 
 #### My social networks:
-[![instagram](https://img.shields.io/badge/instagram%20-%23323330.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/savioo_fontes/)
-[![linkedin](https://img.shields.io/badge/linkedin%20-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://br.linkedin.com/in/s%C3%A1vio-pal%C3%A1cio-fontes-3924aa16b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/savioo_fontes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/s%C3%A1vio-pal%C3%A1cio-fontes-3924aa16b)
+[![Website](https://img.shields.io/badge/🌐%20Website-Savio%20Fontes%20Dev-0A0A0A?style=for-the-badge)](https://savio777-github-io.vercel.app/)
 
 ### Main projects:
 
